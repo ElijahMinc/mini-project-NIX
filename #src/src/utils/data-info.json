@@ -1,0 +1,209 @@
+{
+   "data-info": [
+      {
+         "id": "1",
+         "taskName": "Search page mockup",
+         "developer": [
+            "Robert Fox",
+            "Kent Peacock",
+            "Diana Ruset"
+         ],
+         "workType": [
+            "Programming",
+            "Meetings"
+         ],
+         "status": true,
+         "estimation": "0.0",
+         "totalTime": "232.17",
+         "totalTimePeriod": "23.00",
+         "efficiency": "100%"
+      },
+      {
+         "id": "2",
+         "taskName": "Two levels of the menu mockup",
+         "developer": [
+            "Robert Fox"
+         ],
+         "workType": [
+            "Graphic Design"
+         ],
+         "status": false,
+         "estimation": "0.0",
+         "totalTime": "1567.60",
+         "totalTimePeriod": "15.00",
+         "efficiency": "-"
+      },
+      {
+         "id": "3",
+         "taskName": "Edit pictures",
+         "developer": [
+            "Robert Fox",
+            "Kent Peacock",
+            "Diana Ruset"
+         ],
+         "workType": [
+            "Graphic Design"
+         ],
+         "status": false,
+         "estimation": "0.0",
+         "totalTime": "678.20",
+         "totalTimePeriod": "67.00",
+         "efficiency": "-"
+      },
+      {
+         "id": "4",
+         "taskName": "Subdomain home pages mockup",
+         "developer": [
+            "Dianne Russel"
+         ],
+         "workType": [
+            "Graphic Design"
+         ],
+         "status": false,
+         "statusText": "Non completed",
+         "estimation": "0.0",
+         "totalTime": "756.70",
+         "totalTimePeriod": "75.00",
+         "efficiency": "-"
+      },
+      {
+         "id": "5",
+         "taskName": "Landing page mockup",
+         "developer": [
+            "Dianne Russel"
+         ],
+         "workType": [
+            "Graphic Design"
+         ],
+         "status": false,
+         "estimation": "0.0",
+         "totalTime": "345.60",
+         "totalTimePeriod": "45.00",
+         "efficiency": "-"
+      },
+      {
+         "id": "6",
+         "taskName": "Landing page mockup",
+         "developer": [
+            "Courtney Henry",
+            "Kent Peacock",
+            "Diana Ruset"
+         ],
+         "workType": [
+            "Programming",
+            "Meetings"
+         ],
+         "status": true,
+         "estimation": "0.0",
+         "totalTime": "232.17",
+         "totalTimePeriod": "23.00",
+         "efficiency": "-"
+      },
+      {
+         "id": "7",
+         "taskName": "Search page mockup",
+         "developer": [
+            "Courtney Henry",
+            "Kent Peacock",
+            "Diana Ruset"
+         ],
+         "workType": [
+            "Programming",
+            "Meetings",
+            "Some else"
+         ],
+         "status": true,
+         "estimation": "0.0",
+         "totalTime": "232.17",
+         "totalTimePeriod": "23.00",
+         "efficiency": "100%"
+      },
+      {
+         "id": "7",
+         "taskName": "Landing page mockup",
+         "developer": [
+            "Courtney Henry",
+            "Kent Peacock",
+            "Diana Ruset"
+         ],
+         "workType": [
+            "Programming",
+            "Meetings",
+            "Some else"
+         ],
+         "status": false,
+         "estimation": "0.0",
+         "totalTime": "345.60",
+         "totalTimePeriod": "45.00",
+         "efficiency": "-"
+      },
+      {
+         "id": "7",
+         "taskName": "Search page mockup",
+         "developer": [
+            "Courtney Henry"
+         ],
+         "workType": [
+            "Programming",
+            "Meetings",
+            "Some else"
+         ],
+         "status": true,
+         "estimation": "0.0",
+         "totalTime": "232.17",
+         "totalTimePeriod": "23.00",
+         "efficiency": "100%"
+      },
+      {
+         "id": "8",
+         "taskName": "Search page mockup",
+         "developer": [
+            "Courtney Henry"
+         ],
+         "workType": [
+            "Programming",
+            "Meetings",
+            "Some else"
+         ],
+         "status": true,
+         "estimation": "0.0",
+         "totalTime": "232.17",
+         "totalTimePeriod": "23.00",
+         "efficiency": "100%"
+      },
+      {
+         "id": "9",
+         "taskName": "Search page mockup",
+         "developer": [
+            "Courtney Henry",
+            "Kent Peacock",
+            "Diana Ruset"
+         ],
+         "workType": [
+            "Programming",
+            "Meetings",
+            "Some else"
+         ],
+         "status": false,
+         "estimation": "0.0",
+         "totalTime": "232.17",
+         "totalTimePeriod": "23.00",
+         "efficiency": "100%"
+      },
+      {
+         "id": "10",
+         "taskName": "Landing page mockup",
+         "developer": [
+            "Courtney Henry"
+         ],
+         "workType": [
+            "Programming"
+         ],
+         "status": true,
+         "estimation": "0.0",
+         "totalTime": "232.17",
+         "totalTimePeriod": "23.00",
+         "efficiency": "100%"
+      }
+   ]
+}
